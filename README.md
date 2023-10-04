@@ -12,8 +12,11 @@ Another important aspect about this fork is the focus on manual assembly to redu
 
 ## List of Materials
 - Raspberry pi Pico x1 
-- JST PH 4Pin Female Terminal x3
+- JST PH 4Pin Male Terminal x3
 - Screw Terminal 5Pin x4
 - Male Pin header 10Pin x2
 - Male pin header 2Pin x4
+
+
+
 
