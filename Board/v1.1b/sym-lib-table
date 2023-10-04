@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PicoFightingBoard-rescue")(type "KiCad")(uri "${KIPRJMOD}/PicoFightingBoard-rescue.kicad_sym")(options "")(descr ""))
+)
