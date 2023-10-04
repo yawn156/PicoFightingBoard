@@ -17,6 +17,23 @@ Another important aspect about this fork is the focus on manual assembly to redu
 - Male Pin header 10Pin x2
 - Male pin header 2Pin x4
 
+For wiring you'll either use the brook 20 pin connector or have a crimping tool with a bunch of 2.8mm female spade connectors.
+
+## Firmware 
+You'll want to use the PicoFightingBoard firmware from the [GP2040-CE](https://gp2040-ce.info/#/download) project.
+
+The pins used for the connectors on the board are:
+- USB Passthrough D+ = 21
+- USB Passthrough D- = 22 (automatically set from the addon)
+- Extra Button = 24
+- Reverse button = 25
+- TP = 26 *
+- LS = 27 *
+- RS = 29 *
+- SDA = 31 *
+- SCL = 32 *
+
+(Pins marked with * may be already set in the webconfigurator.)
 
 
 
